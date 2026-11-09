@@ -1,0 +1,16 @@
+,nilai
+Periode data,2025-01-02 s.d. 2025-09-30
+Jumlah struk,"53,820"
+Jumlah item kopi,"31,068"
+Porsi struk berisi kopi,54.0%
+Rata-rata kopi per outlet per hari,38.1
+"Porsi permintaan shift malam (18-22), seluruh outlet",36.5%
+Metode terpilih,Random Forest + 7-day average
+MAE uji (item per outlet-hari),5.29
+WAPE uji,14.6%
+WAPE aturan 'minggu lalu',19.2%
+WAPE rata-rata historis,34.2%
+Batas bawah MAE (keacakan harian),4.73
+Hari tanpa kekurangan (target 90%),97.6%
+Penurunan kelebihan persiapan vs aturan 'minggu lalu',17%
+Kelebihan persiapan yang dihemat per bulan,239 item
